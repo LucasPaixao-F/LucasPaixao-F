@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Paixão 🦈🦈
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukas_f12/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukasbidu/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bidas9)
 [![YoutubeMusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLx_-Xbr5Hj85_2q5EWidYdED0DiO-qqSS&si=TK5cGqqLEHoe19RH)
 
